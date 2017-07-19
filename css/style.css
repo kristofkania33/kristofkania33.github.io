@@ -1,0 +1,29 @@
+h1 {
+	font-family: 'Lato', sans-serif;
+	color:#3D9970;
+	background: url("C:/Users/Gebruiker/Documents/Cv strona/kania.jpg");
+	background-position: top-left;
+	background-size: 200px;
+	background-repeat: no-repeat;
+	height: 200px;
+}
+
+.row {
+	margin: 10px 0;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.row > a {
+	font-size: 23px;
+	text-decoration: none;
+}
+
+.important {
+	color: #3D9970;
+	font-weight: 600;
+}
+
+h3,p {
+	line-height: 45px;
+}
+
